@@ -156,7 +156,7 @@
   stroke: 0.5pt,
   [*Term*], [*Definition*],
   [EVM2ANY format], [A standardized message format that enables communication between EVM-based chains and non-EVM chains (like Cardano). It provides a common structure for cross-chain data exchange.],
-  [Binary ABI encoding], [The Application Binary Interface encoding method used by Ethereum to serialize and deserialize data. CCIP uses this encoding for consistency across different blockchain environments.],
+  [Binary ABI encoding], [The Application Binary Interface encoding method used by Ethereum to serialize and deserialize data.],
   [Validator network], [A decentralized set of Chainlink nodes that verify cross-chain messages, ensuring data integrity and preventing malicious transactions.],
 )
 
